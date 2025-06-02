@@ -11,8 +11,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	golang.org/x/crypto v0.17.0
 	gorm.io/driver/postgres v1.5.4
-	gorm.io/gorm v1.25.5
-
+	gorm.io/gorm v1.30.0
 )
 
 require (
@@ -37,7 +36,7 @@ require (
 	github.com/valyala/fasthttp v1.50.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/sys v0.17.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/text v0.20.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	xorm.io/builder v0.3.7 // indirect
 	xorm.io/xorm v1.0.3 // indirect
